@@ -1,0 +1,23 @@
+body {
+    background: lightcoral;
+
+}
+
+.centered-element {
+    text-align: center;
+}
+
+
+.left-element {
+    background-color: bisque;
+    text-align: left;
+    border: 3px solid black;
+    padding-top: 4px;
+    padding-left: 5%;
+
+}
+
+.left-element textarea
+{margin-top: 10px;
+background-color: rgb(244, 219, 157);    
+}
