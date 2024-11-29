@@ -1,7 +1,33 @@
 body {
     background: rgb(125, 165, 210);
+    align-content: center;
 
 }
+.main 
+{
+    width:500px;
+    height:500px;
+    border: 3px solid rgb(4, 2, 82);
+    display:inline-flex
+}
+.container
+{
+    background-color: dodgerblue;
+    height: px;
+    width: 250px;
+    border: 2px solid rgb(55, 101, 180);
+}
+.destination
+.child
+.childA
+.childB
+.childC
+.childD
+.childE
+
+
+
+
 
 .centered-element {
     text-align: center;
