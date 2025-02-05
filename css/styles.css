@@ -47,8 +47,14 @@ main {
 
 .quote {
     text-align: center;
+    
 }
 
+#favorite {
+    text-align: center;
+    background-color: blue;
+    color:antiquewhite
+}
 .factsAboutMe {
     display: flex;
     justify-content: space-between;
@@ -73,9 +79,7 @@ main {
     overflow: hidden;
 }
 .pictures {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+   
 }
 
 footer {
