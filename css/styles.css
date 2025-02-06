@@ -88,6 +88,12 @@ main {
     margin: auto;
     overflow: hidden;
 }
+
+#mainPic{
+    width : 612 px;
+    height : 408 px;
+}
+
 .pictures {
    display: flex;
    transition: transform 0.8s ease-in-out;
@@ -107,6 +113,8 @@ main {
     cursor: pointer;
     z-index: 10;
  }
+
+
 
  #prev {
     left: 8px;
