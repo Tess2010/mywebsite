@@ -13,3 +13,9 @@ function changeText(){
     let ran = Math.floor(Math.random()*6)
     quote.innerText= quoteArray[ran];
 }
+
+let currentIndex = 0;
+function moveImage (direction){
+    let prev =
+    let next = 
+}
