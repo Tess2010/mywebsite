@@ -1,7 +1,7 @@
 let quoteArray = [
 
     'I am who I say I am, not who you want me to be',
-    'I am imperfectly perfect',
+    'I am perfectly imperfect',
     'Beauty is always in the eye of the beholder',
     'Treat others how you would want to be treated',
     'The quickest way to get somewhere is one step at a time',
