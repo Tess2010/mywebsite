@@ -52,3 +52,8 @@ function moveImage(direction) {
     }
     }
 }
+
+
+
+
+
