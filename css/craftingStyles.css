@@ -1,5 +1,5 @@
 body {
-    background: rgb(125, 165, 210);
+    background: rgb(199, 125, 210);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     justify-content: center;
     text-align: center;
@@ -11,7 +11,7 @@ header {
     width: 100%;
     height: 120px;
     z-index: 10;
-    background-color: rgb(72, 105, 132);
+    background-color: rgb(130, 67, 138);
 }
 
 #headerText {
@@ -33,4 +33,8 @@ nav ul {
   
 main {
     margin-top: 130px;
+}
+
+footer {
+    text-align: center;
 }
