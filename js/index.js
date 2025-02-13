@@ -36,10 +36,14 @@ let currentIndex = 0;
 function moveImage(direction) {
     const arrPic = ["../images/Destinations/Italy-Bologna.jpg", 
         "../images/Destinations/Mina_Port.jpg", "../images/Destinations/ArticFox.jpg" ];
+    const arrAlt = [
+        "Bologna,Italy", 
+    ]
         
     let image = document.getElementById("mainPic");
     if (currentIndex + direction >= 0 && currentIndex + direction <= (arrPic.length - 1)) {
             currentIndex += direction
+            image.alt = arrAlt[currentIndex];
             image.src = arrPic[currentIndex];
         }
     else {
